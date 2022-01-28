@@ -1,1 +1,2 @@
-# Crisis_Manager_-_Mid-Game_Edition
+# Crisis_Manager_Mid
+Crisis Manager - Mid-Game Edition
